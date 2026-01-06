@@ -62,4 +62,17 @@ During analysis, invalid values, missing data, and outliers are handled to ensur
 
 This project demonstrates a basic yet effective approach to analyzing app store data and extracting meaningful insights using Python. It serves as a foundational data analysis project and can be extended further with advanced analytics or machine learning techniques.
 
+## 🤝 Contributing
+Feel free to fork this project and submit pull requests.
+Suggestions and improvements are always welcome!
+***
+## 📄 License
+This project is open-source and free to use.
+***
+## 📬 Contact
+For questions, suggestions, or collaboration, feel free to reach out:
+- [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal)
+***
+Happy Coding! 🚀
+
 
